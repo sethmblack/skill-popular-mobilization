@@ -4,7 +4,7 @@ description: Build strategy on a foundation of genuine connection with the peopl
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4710
+  version: 1.0.4711
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - popular-mobilization
